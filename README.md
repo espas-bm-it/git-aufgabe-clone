@@ -1,6 +1,15 @@
-# git-fachwoche-clone
+# Git / Github Fachwoche - Aufgabe: clone
 
-Diese Übung ist um das Clonen von Repositories zu Üben
+Hello Trainees! 
 
-- URL vom Code Kopieren.
--  
+
+## Diese Übung ist um das Clonen von Repositories zu Üben
+
+- URL von der Github Repository vom <> Code Kopieren.
+- In CMD auf der gewünschte Speicher Ort zugriffen
+- git clone befehl ausführen 
+    - git clone https://github.com/espas-bm-it/git-aufgabe-clone.git
+    
+
+
+
